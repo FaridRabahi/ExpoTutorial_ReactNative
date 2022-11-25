@@ -1,2 +1,2 @@
-# ExpoTutorial_ReactNative
-mobile application / Expo documentation and tutorials
+# ReactNative_FirstDemo
+mobile application / React-Native documentation and tutorials
